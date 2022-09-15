@@ -3,10 +3,10 @@
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
-<h1 align="center"> Miku Nakano (Beta)
+<h1 align="center"> chiku (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD/fork">
@@ -33,7 +33,7 @@
 </br>
   
 
-## ✧✧✧ Why use Miku as your Base?
+## ✧✧✧ Why use chiku as your Base?
 
 ```
 1. Copyright Free.
@@ -49,7 +49,7 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards Ayush
 ```
 </br>
 
@@ -73,7 +73,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 #### ✧ Go to your `Heroku` account.
 #### ✧ Create a `random app` in Heroku with any name.
 #### ✧ Connect your `GitHub` with `Heroku`
-#### ✧ Then connect `Miku's repo` from your GitHub.
+#### ✧ Then connect `chiku's repo` from your GitHub.
 #### ✧ Go to Heroku's `settings` ---> `Add Buildpacks` then connect these 3 buildpacks one by one mentionned    below.
 #### ✧ Then come back to `Heroku` ---> `Deploy` then deploy the app
 #### ✧ After deploy is finished goto `Heroku` ---> `Resources` and turn on the switch.
@@ -127,13 +127,13 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/FantoX001/Miku-MD
-cd Miku-MD
+git clone https://github.com/Ayush-pandey-u/Chiku-MD
+cd Chiku-MD
 npm i
 npm start
 ```
 
-## ✧✧✧ To keep Miku alive without internet 24/7
+## ✧✧✧ To keep chiku alive without internet 24/7
 
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
