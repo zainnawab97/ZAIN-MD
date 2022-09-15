@@ -99,12 +99,11 @@ heroku/nodejs
 </a>
 
 ## ✧✧✧ CMD Deployment Method
-```
-git clone https://github.com/FantoX001/Miku-MD.git
+
+git clone (https://github.com/Ayush-pandey-u/Chiku-MD.git)
 cd Miku-MD
 npm i
-npm start
-```
+
 
 ### ✧ Requirements for CMD istallation:
 - Git
