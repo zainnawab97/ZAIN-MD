@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/Ayush-pandey-u">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+    <img src="https://images.app.goo.gl/yF2u5h185wW44AjGA" width="610">
      
 </p>
 <h1 align="center"> chiku (Beta)
