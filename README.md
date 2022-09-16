@@ -79,7 +79,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 #### ✧ After deploy is finished goto `Heroku` ---> `Resources` and turn on the switch.
 #### ✧ Enjoy :)
 
-[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
 
 
 ## ✧ Heroku Builbpacks:
