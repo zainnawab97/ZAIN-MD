@@ -61,10 +61,12 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 ####  Scan indirectly from my `repl.it`
 
 #### <a href="https://Chiku-QR.ayushpandey954.repl.co"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
-####  if you can see device not connected error then refresh 
-         The qr page and scan again within 15 seconds 
+#### if you can see device not connected error then refresh The qr page and scan again within 15 seconds
+          
 
 #### ✧ [![chiku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
+
+
 
 #### ✧ `Fork` this repo.
 ####  Scan indirectly from my `repl.it`
