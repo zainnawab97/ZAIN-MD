@@ -52,7 +52,7 @@
 
 ## ✧✧✧ Video tutorial for Heroku Deploy:
 
-<a href="https://youtu.be/fZdM7Ahb4JE"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
+<a href="https://youtube.com/c/brajeshpandey9"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
 
 Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
@@ -64,7 +64,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 ####  if you can see device not connected error then refresh 
          The qr page and scan again within 15 seconds 
 
-#### ✧ [![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
+#### ✧ [![chiku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
 
 #### ✧ `Fork` this repo.
 ####  Scan indirectly from my `repl.it`
