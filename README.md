@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/Ayush-pandey-u">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
@@ -9,20 +9,20 @@
   Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
+  <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
+  <a href="https://github.com/Ayush-pandey-u/Chiku-MD">
     <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/Ayush-pandey-u/Chiku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/Ayush-pandey-u">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -142,33 +142,17 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
-## ✧✧✧ License and recode Permission:
-- Well, it's the most asked question !
-- And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
-   
-   
-## ✧ Reminder:
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
- 
-
-
-## ✧ Contribution:
-- I don't have any contributor in this project. Feel free to contribute.
 
 
 
-## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
-- Give my project a ⭐ if you liked it.
+
+
+
+
+
+
 
      
-## ✧ Credits and Appreciation:
 
--   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
--   `Arus~Bots` team for [Mizuhara](https://github.com/Arus-Bots/Mizuhara).
--   `Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2).
--   `Zhwzein` for [Killua](https://github.com/zhwzein/Killua-Zoldyck)
+
+
