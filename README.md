@@ -104,8 +104,8 @@ heroku/nodejs
 
 ## ✧✧✧ CMD Deployment Method
 
-git clone (https://github.com/Ayush-pandey-u/Chiku-MD.git)
-cd Miku-MD
+##git clone(https://github.com/Ayush-pandey-u/Chiku-MD.git)
+##cd Miku-MD
 npm i
 
 
