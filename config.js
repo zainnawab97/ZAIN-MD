@@ -14,12 +14,12 @@ global.BotName = "chiku"
 global.packname = "chiku bot"
 global.author = "By: Ayush"
 global.OwnerName = "Ayush"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
 global.sessionName = "session"
 
 // Prefix //
-// If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
+// 🎗don't change the prefix if you can change the prefix may be bot doesn't work properly//
 global.prefa = ['-'] 
 
 
@@ -27,7 +27,7 @@ global.location = "bihar, India"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.lolhuman = "KaysaS"
 
 
