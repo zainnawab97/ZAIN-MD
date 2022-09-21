@@ -5041,7 +5041,7 @@ I am *chiku*, a bot developed by *Ayush*.
  Powered by: *Ayush*
 `
 
- let buttonshelpm = [
+
     let buttonshelpm = [
 
     {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner'}, type: 1},
