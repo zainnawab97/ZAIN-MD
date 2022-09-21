@@ -5070,7 +5070,7 @@ case '':
       mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
     
         
- const needhelpmenu = `Did you mean *${prefix}help*${pushname}.`
+ const needhelpmenu = `Did you mean *${prefix}help*.`
      
          let butRun = [
                 {buttonId: `-help`, buttonText: {displayText: 'Help'}, type: 1}
