@@ -5030,7 +5030,7 @@ I am *chiku*, a bot developed by *Ayush*.
 
  *━━━〈  💥 NSFW 💥  〉━━━*
 
-🍁 Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
+🍁 click nsfw Button to act nsfw 🔞
 
 🍁 Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
 
@@ -5042,7 +5042,12 @@ I am *chiku*, a bot developed by *Ayush*.
 `
 
  let buttonshelpm = [
-    {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner'}, type: 1}
+    let buttonshelpm = [
+
+    {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner'}, type: 1},
+
+    {buttonId: `-nsfw`, buttonText: {displayText: 'NSFW'}, type: 1}
+
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
@@ -5065,7 +5070,7 @@ case '':
       mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
     
         
- const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
+ const needhelpmenu = `Did you mean *${prefix}help*${pushname}.`
      
          let butRun = [
                 {buttonId: `-help`, buttonText: {displayText: 'Help'}, type: 1}
@@ -5083,11 +5088,11 @@ break
 
 
 
-case 'miku':
+case 'chiku':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
-const txt = `Do you love Miku? Then we are the same.`
+const txt = `Do you love chiku? Then we are the same.`
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
