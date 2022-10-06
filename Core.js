@@ -5172,7 +5172,7 @@ case 'add':{
         if (isBanChat) return reply(mess.bangc)
         if (!m.isGroup) return replay(mess.grouponly)
     reply(`Running repl....Please wait until repl.it responds...`)						
-    var replqr =  await getBuffer(`https://miku-qr--fantox001.repl.co/`)
+    var replqr =  await getBuffer(`https://Chiku-QR.ayushpandey954.repl.co`)
                                var qrbutton = [
             {buttonId: `-qr`, buttonText: {displayText: `Re-run Repl`}, type: 1}
             ]
