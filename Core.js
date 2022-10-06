@@ -5035,7 +5035,7 @@ I am *chiku*, a bot  deploy by 🦋⃟≛⃝𝐀𝐘𝐔𝐒𝐇⃟≛⃝
 🧨translate
 🧨fliptext
 🧨toletter
-
+🧨*script*
  *━━━〈  💥 NSFW 💥  〉━━━*
 
 🍁 click nsfw Button to act nsfw 🔞
